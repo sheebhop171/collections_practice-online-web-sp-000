@@ -23,8 +23,8 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.collect {|word| word[3] << "$"}
-  word[3] == "$"
+  array.collect {|word| word[3] == "$"}
+
 end
 
 def find_a(array)
