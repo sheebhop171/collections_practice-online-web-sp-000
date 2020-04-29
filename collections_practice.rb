@@ -25,6 +25,7 @@ end
 def kesha_maker(array)
   array.each do
     word[index] == 3 << "$"
+  end
 end
 
 def find_a(array)
